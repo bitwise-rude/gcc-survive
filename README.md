@@ -8,6 +8,12 @@ A simple survival game created with Python and Pygame. The goal is to dodge a se
 
 The game's objective is to survive as long as you can while a "monster" character shoots projectiles at you.
 
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/7ee05597-334d-45c8-b733-26ca91f57d8c" />
+
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/c1591282-841d-499f-9a88-d03331fc8244" />
+
+
+
 ### Controls 🕹️
 
 -   **Movement:** Use the **Arrow keys** or **WASD** to move your character around the container.
